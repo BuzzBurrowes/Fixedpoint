@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For Fixedpoint
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SignedFixedPoint	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Truncated	KEYWORD2
+AlmostEquals	KEYWORD2
+RoundToInt	KEYWORD2
+ToFloat	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+ 
